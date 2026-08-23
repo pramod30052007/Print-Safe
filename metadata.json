@@ -1,0 +1,6 @@
+{
+  "name": "PrintSafe",
+  "description": "Smart and Secure Document Printing Management System with OTP/QR authentication, AI sensitive data DLP scanner, virtual IoT printer kiosk, and administrative governance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
